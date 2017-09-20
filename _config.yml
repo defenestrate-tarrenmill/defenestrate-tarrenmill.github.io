@@ -157,7 +157,7 @@ email: "your@email.here"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Defenestrate is a Mythic raiding guild on EU Tarren Mill, bringing together high end and world first raiders from across Europe. "
+author_blurb: "Defenestrate is a Mythic raiding guild on EU Tarren Mill, bringing together high end and server first raiders from across Europe. "
 author_blurb_image: "/img/author.png"
 
 ##################
