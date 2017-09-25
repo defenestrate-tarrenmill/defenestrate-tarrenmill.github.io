@@ -3,8 +3,8 @@
 	<channel>
 		<title>Defenestrate Tarren Mill</title>
 		<description>Mythic Raiding guild on EU Tarren Mill</description>
-		<link>http://localhost:4000</link>
-		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://0.0.0.0:4000</link>
+		<atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Shamans are the best class</title>
@@ -15,8 +15,8 @@
 </description>
 				
 				<pubDate>Thu, 21 Sep 2017 00:00:00 +0100</pubDate>
-				<link>http://localhost:4000/class_warfare/2017/09/21/chris-test-2.html</link>
-				<guid isPermaLink="true">http://localhost:4000/class_warfare/2017/09/21/chris-test-2.html</guid>
+				<link>http://0.0.0.0:4000/class_warfare/2017/09/21/chris-test-2.html</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/class_warfare/2017/09/21/chris-test-2.html</guid>
 			</item>
 		
 			<item>
@@ -28,8 +28,8 @@
 </description>
 				
 				<pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
-				<link>http://localhost:4000/tech/2017/09/20/chris-hacking.html</link>
-				<guid isPermaLink="true">http://localhost:4000/tech/2017/09/20/chris-hacking.html</guid>
+				<link>http://0.0.0.0:4000/tech/2017/09/20/chris-hacking.html</link>
+				<guid isPermaLink="true">http://0.0.0.0:4000/tech/2017/09/20/chris-hacking.html</guid>
 			</item>
 		
 	</channel>
