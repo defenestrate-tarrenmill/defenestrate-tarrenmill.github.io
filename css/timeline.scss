@@ -6,7 +6,10 @@
     padding: 0;
     list-style: none;
 }
-
+.class_logo {
+    width: 100%;
+    border:0px;
+}
 .timeline:before {
     content: "";
     position: absolute;

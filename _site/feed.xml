@@ -7,6 +7,19 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Shamans are the best class</title>
+				
+				
+					<description>&lt;h1&gt;Shamans are amazing&lt;/h1&gt;
+
+</description>
+				
+				<pubDate>Thu, 21 Sep 2017 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/class_warfare/2017/09/21/chris-test-2.html</link>
+				<guid isPermaLink="true">http://localhost:4000/class_warfare/2017/09/21/chris-test-2.html</guid>
+			</item>
+		
+			<item>
 				<title>Chris testing</title>
 				
 				
