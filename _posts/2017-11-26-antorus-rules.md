@@ -7,7 +7,10 @@ tags: [ '7.3.5','Antorus' ]
 ---
 
 
-<p class="lead">With patch 7.3.5 right around the corner we're finally moving into our first full raid tier as a guild! We've had incredible success in Tomb of Sargeras but we do need to tighten up the raid team ahead of Antorus. If you have any questions please contact one of the leadership team as soon as possible. These rules are designed to make sure we make effective use of our time, particularly in the first few weeks of progress.</p>
+<p class="lead">With patch 7.3.5 right around the corner we're finally moving into our first full raid tier as a guild! We've had incredible success in Tomb of Sargeras but we do need to tighten up the raid team ahead of Antorus. </p>
+
+<p>If you have any questions please contact one of the leadership team as soon as possible. These rules are designed to make sure we make effective use of our time, particularly in the first few weeks of progress.</p>
+
 <p class="lead">
 So lets have a quick look at some of the guild changes ahead of Antorus and what we expect from all our raid team.
 </p>
