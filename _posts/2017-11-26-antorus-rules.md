@@ -24,6 +24,8 @@ tags: [ '7.3.5','Antorus' ]
 	<hr>
 	<div class="row">
 		<h1>Raid Attendance</h1>
+		<!--src = http://wow.zamimg.com/uploads/screenshots/normal/529897.jpg -->
+		<img class="img img-responsive" src="/img/summon.jpg" style="max-width: 60% !important"/>
 		<p>In order to ensure a smooth raid environment as we move into the new tier. Raids will now be starting at 20:30 (server time) sharp.</p>
 		<p>In the interest of time and getting the maxmimum progress per night, we want the raids to get going a.s.a.p. meaning we're now going to start invites at 20:20 (server time). When running late please make every effort to contact one of the leadership team.</p>
 		<p>For clarity. If there is no name on the sign-up roster, it will be assumed you are not going on any given evening. So please make sure you sign up as soon as you can (sign ups are available now!).</p>
