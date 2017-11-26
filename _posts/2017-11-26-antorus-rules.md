@@ -6,10 +6,11 @@ category: rules
 tags: [ '7.3.5','Antorus' ]
 ---
 
+
+<p class="lead">With patch 7.3.5 right around the corner we're finally moving into our first full raid tier as a guild! We've had incredible success in Tomb of Sargeras but we do need to tighten up the raid team ahead of Antorus. If you have any questions please contact one of the leadership team as soon as possible. These rules are designed to make sure we make effective use of our time, particularly in the first few weeks of progress.
+So lets have a quick look at some of the guild changes ahead of Antorus and what we expect from all our raid team.
+</p>
 <div class="container">
-	<div class="row">
-		<p class="lead">With patch 7.3.5 right around the corner we're finally moving into our first full raid tier as a guild! We've had incredible success in Tomb of Sargeras but we do need to tighten up the raid team ahead of Antorus. If you have any questions please contact one of the leadership team as soon as possible.</p>
-	</div>
 	<hr>
 	<h1>Preparation</h1>
 	<div class="row">
@@ -42,7 +43,7 @@ tags: [ '7.3.5','Antorus' ]
 	<hr>
 	<div class="row">
 		<h1>Raid Ettiquete</h1>
-		<img class="img img-responsive" src="/img/bubble-hearth.jpeg"/>
+		<img class="img img-responsive" src="/img/test.png"/>
 		<p class="text-center"><b>No leaving the raid zone or group while the raid is in progress!</b></p>
 		<br/>
 		<p>We know that new shiny relic needs to be netherforged and there is that one world quest which will give you limitless bacon.... however... Leaving the raid and forcing a resummon really does waste everyones time, we will always try to make sure that a break is put in around half way through the raid so then is the perfect time to do what you need to!</p>
