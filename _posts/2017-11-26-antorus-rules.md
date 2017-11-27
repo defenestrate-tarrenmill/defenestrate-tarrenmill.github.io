@@ -3,11 +3,11 @@ layout: post
 section-type: post
 title: Pre-Antorus Pep-Talk
 category: rules
-tags: [ '7.3.5','Antorus' ]
+tags: [ 'Antorus' ]
 ---
 
 
-<p class="lead">With patch 7.3.5 right around the corner we're finally moving into our first full raid tier as a guild! We've had incredible success in Tomb of Sargeras but we do need to tighten up the raid team ahead of Antorus. </p>
+<p class="lead">With new raid right around the corner we're finally moving into our first full raid tier as a guild! We've had incredible success in Tomb of Sargeras but we do need to tighten up the raid team ahead of Antorus. </p>
 
 <p>If you have any questions please contact one of the leadership team as soon as possible. These rules are designed to make sure we make effective use of our time, particularly in the first few weeks of progress.</p>
 
@@ -41,7 +41,7 @@ So lets have a quick look at some of the guild changes ahead of Antorus and what
 		<!--src= https://wobc.wordpress.com/tag/world-of-warcraft/-->
 		<img class="img img-responsive" src="{{base}}/img/actual_progress.jpg" style="max-width: 60% !important"/>
 		<br/>
-		<p>For the first few weeks following the launch of 7.3.5, there will be an extra raid night available on a Tuesday. This is available on the calendars right now and is entirely optional!</p>
+		<p>For the first few weeks following the launch of the new raid, there will be an extra raid night available on a Tuesday. This is available on the calendars right now and is entirely optional!</p>
 		<p>These raids are for anyone who can make it and will allow us to squeeze every last drop of delicious progress out of the first week! In future tuesday's may become a normal clear for gear runs whilst focusing Monday &amp; Thursday for Heroic / Mythic progress. </p>
 	</div>
 	<hr>
