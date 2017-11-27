@@ -74,7 +74,7 @@ So lets have a quick look at some of the guild changes ahead of Antorus and what
 	<hr>
 	<div class="row">
 		<p> Ok folks thats the rants over with! Our progress so far in Tomb of Sargeras has been incredible and with these rules in place we should be in an even better place for Antorus. </p>
-		<p> So now it's time to sharpen your axe, buy potions from the potion master and prepare for our first full raid tear as Defenestrate!</p>
+		<p> So now it's time to sharpen your axe, buy potions from the potion master and prepare for our first full raid tier as Defenestrate!</p>
 		<br/>
 		<h1 class="text-center"><b>FOR THE HORDE!</b></h1>
 	</div>
