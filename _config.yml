@@ -55,7 +55,7 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Mythic Raiding on Tarren Mill"
+  - text: "Cutting edge - mythic raiding on Tarren Mill"
   - text: "Do you have what it takes?"
   - text: "We're actively recruiting, Apply Today!"
 
